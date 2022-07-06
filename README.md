@@ -4,3 +4,5 @@ player can then choose to roll again in order to increase their score or hold an
 I used HTML and CSS for the front-end and Javascript for the backend logic. 
 
 To play the game, download the files into a directory and open the index.html file in a browser of your choosing.
+
+https://18jkerrick.github.io/PigGame/
